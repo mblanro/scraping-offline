@@ -59,37 +59,46 @@ function loadTopRural() {
 
             generarTabla();
 
-            // --- ÁRBOL con distinción click / doble click ---
+            // --- ÁRBOL jerárquico dinámico ---
             function crearArbol() {
-                let html = `<ul style="list-style:none; padding-left:0;">`;
-                listaCasasRurales.forEach(c => {
-                    html += `<li style="cursor:pointer; margin-bottom:5px;" data-id="${c.id}" data-href="${c.href}">
-                                • ${c.texto}
-                             </li>`;
-                });
-                html += `</ul>`;
-                document.getElementById(arbolId).innerHTML = html;
+                const divArbol = document.getElementById(arbolId);
+                divArbol.innerHTML = `<h3>Árbol de Nodos de Casas Rurales</h3>`;
+                const ulPrincipal = document.createElement('ul');
 
-                // Eventos
-                let clickTimer;
-                document.querySelectorAll(`#${arbolId} li`).forEach(li => {
-                    li.addEventListener("click", function(event) {
-                        clearTimeout(clickTimer);
-                        clickTimer = setTimeout(() => {
-                            const id = parseInt(this.dataset.id);
-                            const casa = listaCasasRurales.find(c => c.id === id);
-                            if (casa) {
-                                datosFiltrados = [casa];
-                                generarTabla(datosFiltrados);
-                            }
-                        }, 200);
+                listaCasasRurales.forEach((c, index) => {
+                    const li = document.createElement('li');
+                    li.style.cursor = 'pointer';
+                    li.style.marginBottom = '5px';
+                    li.dataset.id = c.id;
+                    li.dataset.href = c.href;
+
+                    li.innerHTML = `
+                        <details>
+                            <summary><strong>Nodo_${c.id}</strong> - ${c.texto}</summary>
+                            <ul style="color: #666">
+                                <li><strong>Nombre:</strong> ${c.texto}</li>
+                                <li><strong>URL:</strong> <a href="${c.href}" target="_blank">${c.href}</a></li>
+                                <li><strong>Origen:</strong> Scraping_CasasRurales</li>
+                            </ul>
+                        </details>`;
+
+                    // Click simple → mostrar solo el nodo en la tabla
+                    li.addEventListener('click', function(event) {
+                        event.stopPropagation();
+                        datosFiltrados = [c];
+                        generarTabla(datosFiltrados);
                     });
-                    li.addEventListener("dblclick", function(event) {
-                        clearTimeout(clickTimer); // evita que se ejecute el click simple
-                        const url = this.dataset.href;
-                        if (url) window.open(url, "_blank");
+
+                    // Doble click → abrir enlace
+                    li.addEventListener('dblclick', function(event) {
+                        event.stopPropagation();
+                        window.open(c.href, "_blank");
                     });
+
+                    ulPrincipal.appendChild(li);
                 });
+
+                divArbol.appendChild(ulPrincipal);
             }
 
             window.botonGuardarCasasRurales = function() {
