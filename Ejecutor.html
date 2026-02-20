@@ -1,0 +1,24 @@
+<!DOCTYPE html> <html lang="es"> 
+<body>
+   <script>
+     console.log("Extracción de datos desde el Facebook");
+     function loadFacebook() {
+      fetch("facebook.html")
+      .then(r => r.text())
+      .then(html => extractNames(html)); 
+       }
+
+       function extractNames(html) {
+       let regex = /<span class="name">(.*?)<\/span>/g;
+       let match;
+       let result = ""; 
+
+        while ((match = regex.exec(html)) !== null) {
+       result += match[1] + "<br>"; }
+
+      document.getElementById("output").innerHTML = result;
+       }
+
+</script>
+</body>
+</html>

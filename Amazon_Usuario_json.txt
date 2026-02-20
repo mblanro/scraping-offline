@@ -1,0 +1,2267 @@
+[
+  {
+    "indice": 3,
+    "tipo": "H2",
+    "contenido": "Saltar a"
+  },
+  {
+    "indice": 4,
+    "tipo": "A",
+    "contenido": "Contenido principal"
+  },
+  {
+    "indice": 5,
+    "tipo": "H2",
+    "contenido": "Métodos abreviados de teclado"
+  },
+  {
+    "indice": 6,
+    "tipo": "A",
+    "contenido": "Buscar                          alt               +               /"
+  },
+  {
+    "indice": 7,
+    "tipo": "DIV",
+    "contenido": "Buscar                          alt               +               /"
+  },
+  {
+    "indice": 8,
+    "tipo": "SPAN",
+    "contenido": "Buscar"
+  },
+  {
+    "indice": 9,
+    "tipo": "DIV",
+    "contenido": "alt               +               /"
+  },
+  {
+    "indice": 10,
+    "tipo": "SPAN",
+    "contenido": "alt"
+  },
+  {
+    "indice": 11,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 12,
+    "tipo": "SPAN",
+    "contenido": "/"
+  },
+  {
+    "indice": 13,
+    "tipo": "A",
+    "contenido": "Cesta                          mayús               +               alt               +               C"
+  },
+  {
+    "indice": 14,
+    "tipo": "DIV",
+    "contenido": "Cesta                          mayús               +               alt               +               C"
+  },
+  {
+    "indice": 15,
+    "tipo": "SPAN",
+    "contenido": "Cesta"
+  },
+  {
+    "indice": 16,
+    "tipo": "DIV",
+    "contenido": "mayús               +               alt               +               C"
+  },
+  {
+    "indice": 17,
+    "tipo": "SPAN",
+    "contenido": "mayús"
+  },
+  {
+    "indice": 18,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 19,
+    "tipo": "SPAN",
+    "contenido": "alt"
+  },
+  {
+    "indice": 20,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 21,
+    "tipo": "SPAN",
+    "contenido": "C"
+  },
+  {
+    "indice": 22,
+    "tipo": "A",
+    "contenido": "Inicio                          mayús               +               alt               +               H"
+  },
+  {
+    "indice": 23,
+    "tipo": "DIV",
+    "contenido": "Inicio                          mayús               +               alt               +               H"
+  },
+  {
+    "indice": 24,
+    "tipo": "SPAN",
+    "contenido": "Inicio"
+  },
+  {
+    "indice": 25,
+    "tipo": "DIV",
+    "contenido": "mayús               +               alt               +               H"
+  },
+  {
+    "indice": 26,
+    "tipo": "SPAN",
+    "contenido": "mayús"
+  },
+  {
+    "indice": 27,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 28,
+    "tipo": "SPAN",
+    "contenido": "alt"
+  },
+  {
+    "indice": 29,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 30,
+    "tipo": "SPAN",
+    "contenido": "H"
+  },
+  {
+    "indice": 31,
+    "tipo": "A",
+    "contenido": "Pedidos                          mayús               +               alt               +               O"
+  },
+  {
+    "indice": 32,
+    "tipo": "DIV",
+    "contenido": "Pedidos                          mayús               +               alt               +               O"
+  },
+  {
+    "indice": 33,
+    "tipo": "SPAN",
+    "contenido": "Pedidos"
+  },
+  {
+    "indice": 34,
+    "tipo": "DIV",
+    "contenido": "mayús               +               alt               +               O"
+  },
+  {
+    "indice": 35,
+    "tipo": "SPAN",
+    "contenido": "mayús"
+  },
+  {
+    "indice": 36,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 37,
+    "tipo": "SPAN",
+    "contenido": "alt"
+  },
+  {
+    "indice": 38,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 39,
+    "tipo": "SPAN",
+    "contenido": "O"
+  },
+  {
+    "indice": 40,
+    "tipo": "BUTTON",
+    "contenido": "Mostrar/ocultar métodos abreviados                          mayús               +               alt               +               Z"
+  },
+  {
+    "indice": 41,
+    "tipo": "DIV",
+    "contenido": "Mostrar/ocultar métodos abreviados                          mayús               +               alt               +               Z"
+  },
+  {
+    "indice": 42,
+    "tipo": "SPAN",
+    "contenido": "Mostrar/ocultar métodos abreviados"
+  },
+  {
+    "indice": 43,
+    "tipo": "DIV",
+    "contenido": "mayús               +               alt               +               Z"
+  },
+  {
+    "indice": 44,
+    "tipo": "SPAN",
+    "contenido": "mayús"
+  },
+  {
+    "indice": 45,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 46,
+    "tipo": "SPAN",
+    "contenido": "alt"
+  },
+  {
+    "indice": 47,
+    "tipo": "SPAN",
+    "contenido": "+"
+  },
+  {
+    "indice": 48,
+    "tipo": "SPAN",
+    "contenido": "Z"
+  },
+  {
+    "indice": 49,
+    "tipo": "DIV",
+    "contenido": "Para moverte entre los productos, usa las flechas arriba o abajo del teclado."
+  },
+  {
+    "indice": 50,
+    "tipo": "DIV",
+    "contenido": "Para moverte entre los productos, usa las flechas arriba o abajo del teclado."
+  },
+  {
+    "indice": 51,
+    "tipo": "DIV",
+    "contenido": "Para moverte entre los productos, usa las flechas arriba o abajo del teclado."
+  },
+  {
+    "indice": 53,
+    "tipo": "DIV",
+    "contenido": "Para moverte entre los productos, usa las flechas arriba o abajo del teclado."
+  },
+  {
+    "indice": 54,
+    "tipo": "SPAN",
+    "contenido": "Para moverte entre los productos, usa las flechas arriba o abajo del teclado."
+  },
+  {
+    "indice": 58,
+    "tipo": "DIV",
+    "contenido": ".es"
+  },
+  {
+    "indice": 59,
+    "tipo": "A",
+    "contenido": ".es"
+  },
+  {
+    "indice": 62,
+    "tipo": "SPAN",
+    "contenido": ".es"
+  },
+  {
+    "indice": 63,
+    "tipo": "DIV",
+    "contenido": "CORREOS - MADRID SUC ...                                                      Madrid 28043‌"
+  },
+  {
+    "indice": 64,
+    "tipo": "SPAN",
+    "contenido": "CORREOS - MADRID SUC ...                                                      Madrid 28043‌"
+  },
+  {
+    "indice": 65,
+    "tipo": "A",
+    "contenido": "CORREOS - MADRID SUC ...                                                      Madrid 28043‌"
+  },
+  {
+    "indice": 67,
+    "tipo": "DIV",
+    "contenido": "CORREOS - MADRID SUC ...                                                      Madrid 28043‌"
+  },
+  {
+    "indice": 68,
+    "tipo": "SPAN",
+    "contenido": "CORREOS - MADRID SUC ..."
+  },
+  {
+    "indice": 69,
+    "tipo": "SPAN",
+    "contenido": "Madrid 28043‌"
+  },
+  {
+    "indice": 76,
+    "tipo": "DIV",
+    "contenido": "Todos los departamentos                 Selecciona el departamento que quieras buscar              Todos los departamentos         Alexa Skills         Alimentación y bebidas         Amazon Fresh         Amazon Global Store         Amazon Haul         Amazon Segunda mano         Aplicaciones y juegos         Audible audiolibros y podcasts exclusivos         Bebé         Belleza         Bricolaje y herramientas         Cheques regalo         Coche y Moto - Piezas y accesorios         Deportes y aire libre         DIA         Dispositivos de Amazon         Electrónica         Equipaje y accesorios de viaje         Grandes electrodomésticos         Handmade         Hogar y cocina         Iluminación         Industria y ciencia         Informática         Instrumentos musicales         Jardín         Juguetes y juegos         Libros         Luxury Stores         Menos de 10€         Mercado de la Paz         Moda         Ropa, zapatos y joyería para mujer         Ropa, zapatos y joyería para hombre         Ropa, zapatos y joyería para chicas         Ropa, zapatos y joyería para chicos         Ropa, zapatos y joyería de bebé         Música Digital         Música: CDs y vinilos         Oficina y papelería         Películas y TV         Prime Video         Productos para mascotas         Salud y cuidado personal         Software         Suscríbete y Ahorra         Tienda Kindle         Videojuegos                                            Buscar en Amazon.es"
+  },
+  {
+    "indice": 80,
+    "tipo": "DIV",
+    "contenido": "Todos los departamentos                 Selecciona el departamento que quieras buscar              Todos los departamentos         Alexa Skills         Alimentación y bebidas         Amazon Fresh         Amazon Global Store         Amazon Haul         Amazon Segunda mano         Aplicaciones y juegos         Audible audiolibros y podcasts exclusivos         Bebé         Belleza         Bricolaje y herramientas         Cheques regalo         Coche y Moto - Piezas y accesorios         Deportes y aire libre         DIA         Dispositivos de Amazon         Electrónica         Equipaje y accesorios de viaje         Grandes electrodomésticos         Handmade         Hogar y cocina         Iluminación         Industria y ciencia         Informática         Instrumentos musicales         Jardín         Juguetes y juegos         Libros         Luxury Stores         Menos de 10€         Mercado de la Paz         Moda         Ropa, zapatos y joyería para mujer         Ropa, zapatos y joyería para hombre         Ropa, zapatos y joyería para chicas         Ropa, zapatos y joyería para chicos         Ropa, zapatos y joyería de bebé         Música Digital         Música: CDs y vinilos         Oficina y papelería         Películas y TV         Prime Video         Productos para mascotas         Salud y cuidado personal         Software         Suscríbete y Ahorra         Tienda Kindle         Videojuegos"
+  },
+  {
+    "indice": 81,
+    "tipo": "DIV",
+    "contenido": "Todos los departamentos                 Selecciona el departamento que quieras buscar              Todos los departamentos         Alexa Skills         Alimentación y bebidas         Amazon Fresh         Amazon Global Store         Amazon Haul         Amazon Segunda mano         Aplicaciones y juegos         Audible audiolibros y podcasts exclusivos         Bebé         Belleza         Bricolaje y herramientas         Cheques regalo         Coche y Moto - Piezas y accesorios         Deportes y aire libre         DIA         Dispositivos de Amazon         Electrónica         Equipaje y accesorios de viaje         Grandes electrodomésticos         Handmade         Hogar y cocina         Iluminación         Industria y ciencia         Informática         Instrumentos musicales         Jardín         Juguetes y juegos         Libros         Luxury Stores         Menos de 10€         Mercado de la Paz         Moda         Ropa, zapatos y joyería para mujer         Ropa, zapatos y joyería para hombre         Ropa, zapatos y joyería para chicas         Ropa, zapatos y joyería para chicos         Ropa, zapatos y joyería de bebé         Música Digital         Música: CDs y vinilos         Oficina y papelería         Películas y TV         Prime Video         Productos para mascotas         Salud y cuidado personal         Software         Suscríbete y Ahorra         Tienda Kindle         Videojuegos"
+  },
+  {
+    "indice": 82,
+    "tipo": "DIV",
+    "contenido": "Todos los departamentos                 Selecciona el departamento que quieras buscar              Todos los departamentos         Alexa Skills         Alimentación y bebidas         Amazon Fresh         Amazon Global Store         Amazon Haul         Amazon Segunda mano         Aplicaciones y juegos         Audible audiolibros y podcasts exclusivos         Bebé         Belleza         Bricolaje y herramientas         Cheques regalo         Coche y Moto - Piezas y accesorios         Deportes y aire libre         DIA         Dispositivos de Amazon         Electrónica         Equipaje y accesorios de viaje         Grandes electrodomésticos         Handmade         Hogar y cocina         Iluminación         Industria y ciencia         Informática         Instrumentos musicales         Jardín         Juguetes y juegos         Libros         Luxury Stores         Menos de 10€         Mercado de la Paz         Moda         Ropa, zapatos y joyería para mujer         Ropa, zapatos y joyería para hombre         Ropa, zapatos y joyería para chicas         Ropa, zapatos y joyería para chicos         Ropa, zapatos y joyería de bebé         Música Digital         Música: CDs y vinilos         Oficina y papelería         Películas y TV         Prime Video         Productos para mascotas         Salud y cuidado personal         Software         Suscríbete y Ahorra         Tienda Kindle         Videojuegos"
+  },
+  {
+    "indice": 83,
+    "tipo": "DIV",
+    "contenido": "Todos los departamentos"
+  },
+  {
+    "indice": 84,
+    "tipo": "SPAN",
+    "contenido": "Todos los departamentos"
+  },
+  {
+    "indice": 85,
+    "tipo": "LABEL",
+    "contenido": "Selecciona el departamento que quieras buscar"
+  },
+  {
+    "indice": 86,
+    "tipo": "DIV",
+    "contenido": "Buscar en Amazon.es"
+  },
+  {
+    "indice": 87,
+    "tipo": "DIV",
+    "contenido": "Buscar en Amazon.es"
+  },
+  {
+    "indice": 88,
+    "tipo": "LABEL",
+    "contenido": "Buscar en Amazon.es"
+  },
+  {
+    "indice": 96,
+    "tipo": "DIV",
+    "contenido": "ES                                            Hola María   Cuenta y listas                                Devoluciones   y Pedidos                                                0                                                         Cesta"
+  },
+  {
+    "indice": 97,
+    "tipo": "DIV",
+    "contenido": "ES"
+  },
+  {
+    "indice": 98,
+    "tipo": "A",
+    "contenido": "ES"
+  },
+  {
+    "indice": 99,
+    "tipo": "SPAN",
+    "contenido": "ES"
+  },
+  {
+    "indice": 101,
+    "tipo": "SPAN",
+    "contenido": "ES"
+  },
+  {
+    "indice": 103,
+    "tipo": "DIV",
+    "contenido": "ES"
+  },
+  {
+    "indice": 105,
+    "tipo": "DIV",
+    "contenido": "Hola María   Cuenta y listas"
+  },
+  {
+    "indice": 106,
+    "tipo": "A",
+    "contenido": "Hola María   Cuenta y listas"
+  },
+  {
+    "indice": 107,
+    "tipo": "DIV",
+    "contenido": "Hola María"
+  },
+  {
+    "indice": 108,
+    "tipo": "SPAN",
+    "contenido": "Hola María"
+  },
+  {
+    "indice": 109,
+    "tipo": "SPAN",
+    "contenido": "Cuenta y listas"
+  },
+  {
+    "indice": 111,
+    "tipo": "A",
+    "contenido": "Devoluciones   y Pedidos"
+  },
+  {
+    "indice": 112,
+    "tipo": "SPAN",
+    "contenido": "Devoluciones"
+  },
+  {
+    "indice": 113,
+    "tipo": "SPAN",
+    "contenido": "y Pedidos"
+  },
+  {
+    "indice": 115,
+    "tipo": "A",
+    "contenido": "0                                                         Cesta"
+  },
+  {
+    "indice": 116,
+    "tipo": "DIV",
+    "contenido": "0"
+  },
+  {
+    "indice": 117,
+    "tipo": "SPAN",
+    "contenido": "0"
+  },
+  {
+    "indice": 119,
+    "tipo": "DIV",
+    "contenido": "Cesta"
+  },
+  {
+    "indice": 121,
+    "tipo": "SPAN",
+    "contenido": "Cesta"
+  },
+  {
+    "indice": 126,
+    "tipo": "A",
+    "contenido": "Todo"
+  },
+  {
+    "indice": 127,
+    "tipo": "SPAN",
+    "contenido": "Todo"
+  },
+  {
+    "indice": 128,
+    "tipo": "BUTTON",
+    "contenido": "Rufus"
+  },
+  {
+    "indice": 130,
+    "tipo": "DIV",
+    "contenido": "Rufus"
+  },
+  {
+    "indice": 131,
+    "tipo": "DIV",
+    "contenido": "Arrastra para cambiar la posición de esta ventana ×"
+  },
+  {
+    "indice": 133,
+    "tipo": "DIV",
+    "contenido": "Arrastra para cambiar la posición de esta ventana ×"
+  },
+  {
+    "indice": 134,
+    "tipo": "DIV",
+    "contenido": "Arrastra para cambiar la posición de esta ventana ×"
+  },
+  {
+    "indice": 135,
+    "tipo": "BUTTON",
+    "contenido": "×"
+  },
+  {
+    "indice": 158,
+    "tipo": "DIV",
+    "contenido": "Amazon Haul"
+  },
+  {
+    "indice": 159,
+    "tipo": "A",
+    "contenido": "Amazon Haul"
+  },
+  {
+    "indice": 160,
+    "tipo": "DIV",
+    "contenido": "Entrega hoy"
+  },
+  {
+    "indice": 161,
+    "tipo": "A",
+    "contenido": "Entrega hoy"
+  },
+  {
+    "indice": 162,
+    "tipo": "DIV",
+    "contenido": "Supermercado"
+  },
+  {
+    "indice": 163,
+    "tipo": "A",
+    "contenido": "Supermercado"
+  },
+  {
+    "indice": 164,
+    "tipo": "SPAN",
+    "contenido": "Supermercado"
+  },
+  {
+    "indice": 166,
+    "tipo": "DIV",
+    "contenido": "Amazon Business"
+  },
+  {
+    "indice": 167,
+    "tipo": "A",
+    "contenido": "Amazon Business"
+  },
+  {
+    "indice": 168,
+    "tipo": "SPAN",
+    "contenido": "Amazon Business"
+  },
+  {
+    "indice": 170,
+    "tipo": "DIV",
+    "contenido": "Salud y cuidado personal"
+  },
+  {
+    "indice": 171,
+    "tipo": "A",
+    "contenido": "Salud y cuidado personal"
+  },
+  {
+    "indice": 172,
+    "tipo": "DIV",
+    "contenido": "Bricolaje y herramientas"
+  },
+  {
+    "indice": 173,
+    "tipo": "A",
+    "contenido": "Bricolaje y herramientas"
+  },
+  {
+    "indice": 174,
+    "tipo": "DIV",
+    "contenido": "Suscríbete y ahorra"
+  },
+  {
+    "indice": 175,
+    "tipo": "A",
+    "contenido": "Suscríbete y ahorra"
+  },
+  {
+    "indice": 176,
+    "tipo": "DIV",
+    "contenido": "Coche y moto"
+  },
+  {
+    "indice": 177,
+    "tipo": "A",
+    "contenido": "Coche y moto"
+  },
+  {
+    "indice": 178,
+    "tipo": "DIV",
+    "contenido": "Amazon Basics"
+  },
+  {
+    "indice": 179,
+    "tipo": "A",
+    "contenido": "Amazon Basics"
+  },
+  {
+    "indice": 180,
+    "tipo": "DIV",
+    "contenido": "Deportes y Aire libre"
+  },
+  {
+    "indice": 181,
+    "tipo": "A",
+    "contenido": "Deportes y Aire libre"
+  },
+  {
+    "indice": 182,
+    "tipo": "DIV",
+    "contenido": "Atención al Cliente"
+  },
+  {
+    "indice": 183,
+    "tipo": "A",
+    "contenido": "Atención al Cliente"
+  },
+  {
+    "indice": 184,
+    "tipo": "DIV",
+    "contenido": "Libros"
+  },
+  {
+    "indice": 185,
+    "tipo": "A",
+    "contenido": "Libros"
+  },
+  {
+    "indice": 186,
+    "tipo": "DIV",
+    "contenido": "Electrónica y Fotografía"
+  },
+  {
+    "indice": 187,
+    "tipo": "A",
+    "contenido": "Electrónica y Fotografía"
+  },
+  {
+    "indice": 188,
+    "tipo": "DIV",
+    "contenido": "Ideas para regalos"
+  },
+  {
+    "indice": 189,
+    "tipo": "A",
+    "contenido": "Ideas para regalos"
+  },
+  {
+    "indice": 190,
+    "tipo": "DIV",
+    "contenido": "Historial de navegación"
+  },
+  {
+    "indice": 191,
+    "tipo": "A",
+    "contenido": "Historial de navegación"
+  },
+  {
+    "indice": 192,
+    "tipo": "SPAN",
+    "contenido": "Historial de navegación"
+  },
+  {
+    "indice": 194,
+    "tipo": "DIV",
+    "contenido": "eBooks Kindle"
+  },
+  {
+    "indice": 195,
+    "tipo": "A",
+    "contenido": "eBooks Kindle"
+  },
+  {
+    "indice": 196,
+    "tipo": "DIV",
+    "contenido": "Tarjetas regalo"
+  },
+  {
+    "indice": 197,
+    "tipo": "A",
+    "contenido": "Tarjetas regalo"
+  },
+  {
+    "indice": 198,
+    "tipo": "SPAN",
+    "contenido": "Tarjetas regalo"
+  },
+  {
+    "indice": 200,
+    "tipo": "DIV",
+    "contenido": "Amazon.es de María"
+  },
+  {
+    "indice": 201,
+    "tipo": "A",
+    "contenido": "Amazon.es de María"
+  },
+  {
+    "indice": 202,
+    "tipo": "SPAN",
+    "contenido": "Amazon.es de María"
+  },
+  {
+    "indice": 203,
+    "tipo": "SPAN",
+    "contenido": "María"
+  },
+  {
+    "indice": 204,
+    "tipo": "DIV",
+    "contenido": "Informática"
+  },
+  {
+    "indice": 205,
+    "tipo": "A",
+    "contenido": "Informática"
+  },
+  {
+    "indice": 206,
+    "tipo": "DIV",
+    "contenido": "Últimas Novedades"
+  },
+  {
+    "indice": 207,
+    "tipo": "A",
+    "contenido": "Últimas Novedades"
+  },
+  {
+    "indice": 208,
+    "tipo": "DIV",
+    "contenido": "Audible"
+  },
+  {
+    "indice": 209,
+    "tipo": "A",
+    "contenido": "Audible"
+  },
+  {
+    "indice": 210,
+    "tipo": "DIV",
+    "contenido": "Prime"
+  },
+  {
+    "indice": 211,
+    "tipo": "A",
+    "contenido": "Prime"
+  },
+  {
+    "indice": 212,
+    "tipo": "SPAN",
+    "contenido": "Prime"
+  },
+  {
+    "indice": 214,
+    "tipo": "DIV",
+    "contenido": "Bebé"
+  },
+  {
+    "indice": 215,
+    "tipo": "A",
+    "contenido": "Bebé"
+  },
+  {
+    "indice": 216,
+    "tipo": "DIV",
+    "contenido": "Moda"
+  },
+  {
+    "indice": 217,
+    "tipo": "A",
+    "contenido": "Moda"
+  },
+  {
+    "indice": 218,
+    "tipo": "DIV",
+    "contenido": "Belleza"
+  },
+  {
+    "indice": 219,
+    "tipo": "A",
+    "contenido": "Belleza"
+  },
+  {
+    "indice": 220,
+    "tipo": "DIV",
+    "contenido": "Hogar y cocina"
+  },
+  {
+    "indice": 221,
+    "tipo": "A",
+    "contenido": "Hogar y cocina"
+  },
+  {
+    "indice": 222,
+    "tipo": "DIV",
+    "contenido": "Envío Gratis"
+  },
+  {
+    "indice": 223,
+    "tipo": "A",
+    "contenido": "Envío Gratis"
+  },
+  {
+    "indice": 224,
+    "tipo": "DIV",
+    "contenido": "Los más vendidos"
+  },
+  {
+    "indice": 225,
+    "tipo": "A",
+    "contenido": "Los más vendidos"
+  },
+  {
+    "indice": 226,
+    "tipo": "DIV",
+    "contenido": "Volver a comprar"
+  },
+  {
+    "indice": 227,
+    "tipo": "A",
+    "contenido": "Volver a comprar"
+  },
+  {
+    "indice": 228,
+    "tipo": "DIV",
+    "contenido": "Ofertas"
+  },
+  {
+    "indice": 229,
+    "tipo": "A",
+    "contenido": "Ofertas"
+  },
+  {
+    "indice": 230,
+    "tipo": "DIV",
+    "contenido": "Kit de Compras"
+  },
+  {
+    "indice": 231,
+    "tipo": "A",
+    "contenido": "Kit de Compras"
+  },
+  {
+    "indice": 243,
+    "tipo": "DIV",
+    "contenido": "Rotación: activadaRotación: desactivada"
+  },
+  {
+    "indice": 244,
+    "tipo": "SPAN",
+    "contenido": "Rotación: activada"
+  },
+  {
+    "indice": 245,
+    "tipo": "SPAN",
+    "contenido": "Rotación: activada"
+  },
+  {
+    "indice": 247,
+    "tipo": "SPAN",
+    "contenido": "Rotación: activada"
+  },
+  {
+    "indice": 248,
+    "tipo": "SPAN",
+    "contenido": "Rotación: desactivada"
+  },
+  {
+    "indice": 249,
+    "tipo": "SPAN",
+    "contenido": "Rotación: desactivada"
+  },
+  {
+    "indice": 251,
+    "tipo": "SPAN",
+    "contenido": "Rotación: desactivada"
+  },
+  {
+    "indice": 255,
+    "tipo": "DIV",
+    "contenido": "Previous slide"
+  },
+  {
+    "indice": 256,
+    "tipo": "A",
+    "contenido": "Previous slide"
+  },
+  {
+    "indice": 257,
+    "tipo": "SPAN",
+    "contenido": "Previous slide"
+  },
+  {
+    "indice": 263,
+    "tipo": "DIV",
+    "contenido": "PatrocinadoClick to learn more about this sponsored product"
+  },
+  {
+    "indice": 264,
+    "tipo": "DIV",
+    "contenido": "PatrocinadoClick to learn more about this sponsored product"
+  },
+  {
+    "indice": 265,
+    "tipo": "DIV",
+    "contenido": "Patrocinado"
+  },
+  {
+    "indice": 266,
+    "tipo": "DIV",
+    "contenido": "Patrocinado"
+  },
+  {
+    "indice": 267,
+    "tipo": "A",
+    "contenido": "Click to learn more about this sponsored product"
+  },
+  {
+    "indice": 268,
+    "tipo": "SPAN",
+    "contenido": "Click to learn more about this sponsored product"
+  },
+  {
+    "indice": 274,
+    "tipo": "DIV",
+    "contenido": "Next slide"
+  },
+  {
+    "indice": 275,
+    "tipo": "A",
+    "contenido": "Next slide"
+  },
+  {
+    "indice": 276,
+    "tipo": "SPAN",
+    "contenido": "Next slide"
+  },
+  {
+    "indice": 281,
+    "tipo": "DIV",
+    "contenido": "Oferta Top-22%Finaliza en -37%Oferta con ventas rápidas-17%Oferta flash-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 282,
+    "tipo": "DIV",
+    "contenido": "Oferta Top"
+  },
+  {
+    "indice": 283,
+    "tipo": "H2",
+    "contenido": "Oferta Top"
+  },
+  {
+    "indice": 284,
+    "tipo": "SPAN",
+    "contenido": "Oferta Top"
+  },
+  {
+    "indice": 285,
+    "tipo": "SPAN",
+    "contenido": "Oferta Top"
+  },
+  {
+    "indice": 287,
+    "tipo": "DIV",
+    "contenido": "-22%Finaliza en -37%Oferta con ventas rápidas-17%Oferta flash-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 288,
+    "tipo": "DIV",
+    "contenido": "-22%Finaliza en -37%Oferta con ventas rápidas-17%Oferta flash-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 289,
+    "tipo": "DIV",
+    "contenido": "-22%Finaliza en"
+  },
+  {
+    "indice": 290,
+    "tipo": "A",
+    "contenido": "-22%Finaliza en"
+  },
+  {
+    "indice": 292,
+    "tipo": "DIV",
+    "contenido": "-22%Finaliza en"
+  },
+  {
+    "indice": 293,
+    "tipo": "DIV",
+    "contenido": "-22%Finaliza en"
+  },
+  {
+    "indice": 294,
+    "tipo": "DIV",
+    "contenido": "-22%"
+  },
+  {
+    "indice": 295,
+    "tipo": "SPAN",
+    "contenido": "-"
+  },
+  {
+    "indice": 296,
+    "tipo": "SPAN",
+    "contenido": "22%"
+  },
+  {
+    "indice": 297,
+    "tipo": "DIV",
+    "contenido": "Finaliza en"
+  },
+  {
+    "indice": 298,
+    "tipo": "SPAN",
+    "contenido": "Finaliza en"
+  },
+  {
+    "indice": 302,
+    "tipo": "DIV",
+    "contenido": "-37%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 303,
+    "tipo": "A",
+    "contenido": "-37%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 305,
+    "tipo": "DIV",
+    "contenido": "-37%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 306,
+    "tipo": "DIV",
+    "contenido": "-37%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 307,
+    "tipo": "DIV",
+    "contenido": "-37%"
+  },
+  {
+    "indice": 308,
+    "tipo": "SPAN",
+    "contenido": "-"
+  },
+  {
+    "indice": 309,
+    "tipo": "SPAN",
+    "contenido": "37%"
+  },
+  {
+    "indice": 310,
+    "tipo": "DIV",
+    "contenido": "Oferta con ventas rápidas"
+  },
+  {
+    "indice": 311,
+    "tipo": "SPAN",
+    "contenido": "Oferta con ventas rápidas"
+  },
+  {
+    "indice": 312,
+    "tipo": "DIV",
+    "contenido": "-17%Oferta flash"
+  },
+  {
+    "indice": 313,
+    "tipo": "A",
+    "contenido": "-17%Oferta flash"
+  },
+  {
+    "indice": 315,
+    "tipo": "DIV",
+    "contenido": "-17%Oferta flash"
+  },
+  {
+    "indice": 316,
+    "tipo": "DIV",
+    "contenido": "-17%Oferta flash"
+  },
+  {
+    "indice": 317,
+    "tipo": "DIV",
+    "contenido": "-17%"
+  },
+  {
+    "indice": 318,
+    "tipo": "SPAN",
+    "contenido": "-"
+  },
+  {
+    "indice": 319,
+    "tipo": "SPAN",
+    "contenido": "17%"
+  },
+  {
+    "indice": 320,
+    "tipo": "DIV",
+    "contenido": "Oferta flash"
+  },
+  {
+    "indice": 321,
+    "tipo": "SPAN",
+    "contenido": "Oferta flash"
+  },
+  {
+    "indice": 322,
+    "tipo": "DIV",
+    "contenido": "-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 323,
+    "tipo": "A",
+    "contenido": "-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 325,
+    "tipo": "DIV",
+    "contenido": "-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 326,
+    "tipo": "DIV",
+    "contenido": "-27%Oferta con ventas rápidas"
+  },
+  {
+    "indice": 327,
+    "tipo": "DIV",
+    "contenido": "-27%"
+  },
+  {
+    "indice": 328,
+    "tipo": "SPAN",
+    "contenido": "-"
+  },
+  {
+    "indice": 329,
+    "tipo": "SPAN",
+    "contenido": "27%"
+  },
+  {
+    "indice": 330,
+    "tipo": "DIV",
+    "contenido": "Oferta con ventas rápidas"
+  },
+  {
+    "indice": 331,
+    "tipo": "SPAN",
+    "contenido": "Oferta con ventas rápidas"
+  },
+  {
+    "indice": 333,
+    "tipo": "DIV",
+    "contenido": "Descubre los productos más vendidosDescúbrelos"
+  },
+  {
+    "indice": 334,
+    "tipo": "DIV",
+    "contenido": "Descubre los productos más vendidos"
+  },
+  {
+    "indice": 335,
+    "tipo": "H2",
+    "contenido": "Descubre los productos más vendidos"
+  },
+  {
+    "indice": 336,
+    "tipo": "A",
+    "contenido": "Descúbrelos"
+  },
+  {
+    "indice": 339,
+    "tipo": "DIV",
+    "contenido": "Descúbrelos"
+  },
+  {
+    "indice": 340,
+    "tipo": "SPAN",
+    "contenido": "Descúbrelos"
+  },
+  {
+    "indice": 341,
+    "tipo": "SPAN",
+    "contenido": "Descúbrelos"
+  },
+  {
+    "indice": 344,
+    "tipo": "DIV",
+    "contenido": "Pelayo Más Allá Del Límite - Nueva serieVer ahora"
+  },
+  {
+    "indice": 345,
+    "tipo": "DIV",
+    "contenido": "Pelayo Más Allá Del Límite - Nueva serie"
+  },
+  {
+    "indice": 346,
+    "tipo": "H2",
+    "contenido": "Pelayo Más Allá Del Límite - Nueva serie"
+  },
+  {
+    "indice": 347,
+    "tipo": "A",
+    "contenido": "Ver ahora"
+  },
+  {
+    "indice": 350,
+    "tipo": "DIV",
+    "contenido": "Ver ahora"
+  },
+  {
+    "indice": 351,
+    "tipo": "SPAN",
+    "contenido": "Ver ahora"
+  },
+  {
+    "indice": 352,
+    "tipo": "SPAN",
+    "contenido": "Ver ahora"
+  },
+  {
+    "indice": 356,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidosVer más"
+  },
+  {
+    "indice": 357,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidosVer más"
+  },
+  {
+    "indice": 358,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidosVer más"
+  },
+  {
+    "indice": 359,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidos"
+  },
+  {
+    "indice": 360,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidos"
+  },
+  {
+    "indice": 361,
+    "tipo": "H3",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidos"
+  },
+  {
+    "indice": 362,
+    "tipo": "SPAN",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidos"
+  },
+  {
+    "indice": 363,
+    "tipo": "SPAN",
+    "contenido": "Amazon Fresh: -30€ en tus 3 primeros pedidos"
+  },
+  {
+    "indice": 365,
+    "tipo": "DIV",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 366,
+    "tipo": "A",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 373,
+    "tipo": "DIV",
+    "contenido": "Click to learn more about this sponsored product"
+  },
+  {
+    "indice": 374,
+    "tipo": "DIV",
+    "contenido": "Click to learn more about this sponsored product"
+  },
+  {
+    "indice": 375,
+    "tipo": "A",
+    "contenido": "Click to learn more about this sponsored product"
+  },
+  {
+    "indice": 376,
+    "tipo": "SPAN",
+    "contenido": "Click to learn more about this sponsored product"
+  },
+  {
+    "indice": 379,
+    "tipo": "DIV",
+    "contenido": "Prime Video: recomendado para tiEmpieza a ver en Prime Video"
+  },
+  {
+    "indice": 380,
+    "tipo": "DIV",
+    "contenido": "Prime Video: recomendado para ti"
+  },
+  {
+    "indice": 381,
+    "tipo": "H2",
+    "contenido": "Prime Video: recomendado para ti"
+  },
+  {
+    "indice": 385,
+    "tipo": "DIV",
+    "contenido": "Empieza a ver en Prime Video"
+  },
+  {
+    "indice": 386,
+    "tipo": "A",
+    "contenido": "Empieza a ver en Prime Video"
+  },
+  {
+    "indice": 389,
+    "tipo": "DIV",
+    "contenido": "Informática y accesoriosDescubre más"
+  },
+  {
+    "indice": 390,
+    "tipo": "DIV",
+    "contenido": "Informática y accesorios"
+  },
+  {
+    "indice": 391,
+    "tipo": "H2",
+    "contenido": "Informática y accesorios"
+  },
+  {
+    "indice": 392,
+    "tipo": "A",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 395,
+    "tipo": "DIV",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 396,
+    "tipo": "SPAN",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 397,
+    "tipo": "SPAN",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 400,
+    "tipo": "DIV",
+    "contenido": "Ponte en forma desde casaExplora ahora"
+  },
+  {
+    "indice": 401,
+    "tipo": "DIV",
+    "contenido": "Ponte en forma desde casa"
+  },
+  {
+    "indice": 402,
+    "tipo": "H2",
+    "contenido": "Ponte en forma desde casa"
+  },
+  {
+    "indice": 403,
+    "tipo": "A",
+    "contenido": "Explora ahora"
+  },
+  {
+    "indice": 406,
+    "tipo": "DIV",
+    "contenido": "Explora ahora"
+  },
+  {
+    "indice": 407,
+    "tipo": "SPAN",
+    "contenido": "Explora ahora"
+  },
+  {
+    "indice": 408,
+    "tipo": "SPAN",
+    "contenido": "Explora ahora"
+  },
+  {
+    "indice": 411,
+    "tipo": "DIV",
+    "contenido": "Nuestra selección de bellezaDescubre más"
+  },
+  {
+    "indice": 412,
+    "tipo": "DIV",
+    "contenido": "Nuestra selección de belleza"
+  },
+  {
+    "indice": 413,
+    "tipo": "H2",
+    "contenido": "Nuestra selección de belleza"
+  },
+  {
+    "indice": 414,
+    "tipo": "A",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 417,
+    "tipo": "DIV",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 418,
+    "tipo": "SPAN",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 419,
+    "tipo": "SPAN",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 426,
+    "tipo": "DIV",
+    "contenido": "Ofertas en pedidos repetidos popularesVer más ofertas"
+  },
+  {
+    "indice": 427,
+    "tipo": "H2",
+    "contenido": "Ofertas en pedidos repetidos populares"
+  },
+  {
+    "indice": 428,
+    "tipo": "SPAN",
+    "contenido": "Ofertas en pedidos repetidos populares"
+  },
+  {
+    "indice": 429,
+    "tipo": "SPAN",
+    "contenido": "Ver más ofertas"
+  },
+  {
+    "indice": 430,
+    "tipo": "A",
+    "contenido": "Ver más ofertas"
+  },
+  {
+    "indice": 458,
+    "tipo": "DIV",
+    "contenido": "Esenciales a precios bajosVer más"
+  },
+  {
+    "indice": 459,
+    "tipo": "H2",
+    "contenido": "Esenciales a precios bajos"
+  },
+  {
+    "indice": 460,
+    "tipo": "SPAN",
+    "contenido": "Esenciales a precios bajos"
+  },
+  {
+    "indice": 461,
+    "tipo": "SPAN",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 462,
+    "tipo": "A",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 488,
+    "tipo": "DIV",
+    "contenido": "Ofertas fin de temporadaHombreMujerNiñaNiñoVer más"
+  },
+  {
+    "indice": 489,
+    "tipo": "DIV",
+    "contenido": "Ofertas fin de temporada"
+  },
+  {
+    "indice": 490,
+    "tipo": "H2",
+    "contenido": "Ofertas fin de temporada"
+  },
+  {
+    "indice": 491,
+    "tipo": "DIV",
+    "contenido": "HombreMujerNiñaNiño"
+  },
+  {
+    "indice": 492,
+    "tipo": "DIV",
+    "contenido": "HombreMujer"
+  },
+  {
+    "indice": 493,
+    "tipo": "DIV",
+    "contenido": "Hombre"
+  },
+  {
+    "indice": 494,
+    "tipo": "A",
+    "contenido": "Hombre"
+  },
+  {
+    "indice": 496,
+    "tipo": "DIV",
+    "contenido": "Hombre"
+  },
+  {
+    "indice": 497,
+    "tipo": "SPAN",
+    "contenido": "Hombre"
+  },
+  {
+    "indice": 498,
+    "tipo": "DIV",
+    "contenido": "Mujer"
+  },
+  {
+    "indice": 499,
+    "tipo": "A",
+    "contenido": "Mujer"
+  },
+  {
+    "indice": 501,
+    "tipo": "DIV",
+    "contenido": "Mujer"
+  },
+  {
+    "indice": 502,
+    "tipo": "SPAN",
+    "contenido": "Mujer"
+  },
+  {
+    "indice": 503,
+    "tipo": "DIV",
+    "contenido": "NiñaNiño"
+  },
+  {
+    "indice": 504,
+    "tipo": "DIV",
+    "contenido": "Niña"
+  },
+  {
+    "indice": 505,
+    "tipo": "A",
+    "contenido": "Niña"
+  },
+  {
+    "indice": 507,
+    "tipo": "DIV",
+    "contenido": "Niña"
+  },
+  {
+    "indice": 508,
+    "tipo": "SPAN",
+    "contenido": "Niña"
+  },
+  {
+    "indice": 509,
+    "tipo": "DIV",
+    "contenido": "Niño"
+  },
+  {
+    "indice": 510,
+    "tipo": "A",
+    "contenido": "Niño"
+  },
+  {
+    "indice": 512,
+    "tipo": "DIV",
+    "contenido": "Niño"
+  },
+  {
+    "indice": 513,
+    "tipo": "SPAN",
+    "contenido": "Niño"
+  },
+  {
+    "indice": 514,
+    "tipo": "DIV",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 515,
+    "tipo": "A",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 516,
+    "tipo": "SPAN",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 517,
+    "tipo": "SPAN",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 521,
+    "tipo": "DIV",
+    "contenido": "window.grandprix.wrappers.listenForSFIFrameLoad(\"ape_Gateway_desktop-homepage-btf-card-1_desktop_iframe\", \"ape_Gateway_desktop-homepage-btf-card-1_desktop_placement\");"
+  },
+  {
+    "indice": 523,
+    "tipo": "DIV",
+    "contenido": "Jardín esencialAlmacenamientoDecoración exteriorMuebles exteriorCuidado plantasVer más"
+  },
+  {
+    "indice": 524,
+    "tipo": "DIV",
+    "contenido": "Jardín esencial"
+  },
+  {
+    "indice": 525,
+    "tipo": "H2",
+    "contenido": "Jardín esencial"
+  },
+  {
+    "indice": 526,
+    "tipo": "DIV",
+    "contenido": "AlmacenamientoDecoración exteriorMuebles exteriorCuidado plantas"
+  },
+  {
+    "indice": 527,
+    "tipo": "DIV",
+    "contenido": "AlmacenamientoDecoración exterior"
+  },
+  {
+    "indice": 528,
+    "tipo": "DIV",
+    "contenido": "Almacenamiento"
+  },
+  {
+    "indice": 529,
+    "tipo": "A",
+    "contenido": "Almacenamiento"
+  },
+  {
+    "indice": 531,
+    "tipo": "DIV",
+    "contenido": "Almacenamiento"
+  },
+  {
+    "indice": 532,
+    "tipo": "SPAN",
+    "contenido": "Almacenamiento"
+  },
+  {
+    "indice": 533,
+    "tipo": "DIV",
+    "contenido": "Decoración exterior"
+  },
+  {
+    "indice": 534,
+    "tipo": "A",
+    "contenido": "Decoración exterior"
+  },
+  {
+    "indice": 536,
+    "tipo": "DIV",
+    "contenido": "Decoración exterior"
+  },
+  {
+    "indice": 537,
+    "tipo": "SPAN",
+    "contenido": "Decoración exterior"
+  },
+  {
+    "indice": 538,
+    "tipo": "DIV",
+    "contenido": "Muebles exteriorCuidado plantas"
+  },
+  {
+    "indice": 539,
+    "tipo": "DIV",
+    "contenido": "Muebles exterior"
+  },
+  {
+    "indice": 540,
+    "tipo": "A",
+    "contenido": "Muebles exterior"
+  },
+  {
+    "indice": 542,
+    "tipo": "DIV",
+    "contenido": "Muebles exterior"
+  },
+  {
+    "indice": 543,
+    "tipo": "SPAN",
+    "contenido": "Muebles exterior"
+  },
+  {
+    "indice": 544,
+    "tipo": "DIV",
+    "contenido": "Cuidado plantas"
+  },
+  {
+    "indice": 545,
+    "tipo": "A",
+    "contenido": "Cuidado plantas"
+  },
+  {
+    "indice": 547,
+    "tipo": "DIV",
+    "contenido": "Cuidado plantas"
+  },
+  {
+    "indice": 548,
+    "tipo": "SPAN",
+    "contenido": "Cuidado plantas"
+  },
+  {
+    "indice": 549,
+    "tipo": "DIV",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 550,
+    "tipo": "A",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 551,
+    "tipo": "SPAN",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 552,
+    "tipo": "SPAN",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 555,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en 3 pedidosDescubre más"
+  },
+  {
+    "indice": 556,
+    "tipo": "DIV",
+    "contenido": "Amazon Fresh: -30€ en 3 pedidos"
+  },
+  {
+    "indice": 557,
+    "tipo": "H2",
+    "contenido": "Amazon Fresh: -30€ en 3 pedidos"
+  },
+  {
+    "indice": 558,
+    "tipo": "A",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 561,
+    "tipo": "DIV",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 562,
+    "tipo": "SPAN",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 563,
+    "tipo": "SPAN",
+    "contenido": "Descubre más"
+  },
+  {
+    "indice": 568,
+    "tipo": "DIV",
+    "contenido": "Fin invierno: hasta 60%Ver más"
+  },
+  {
+    "indice": 569,
+    "tipo": "H2",
+    "contenido": "Fin invierno: hasta 60%"
+  },
+  {
+    "indice": 570,
+    "tipo": "SPAN",
+    "contenido": "Fin invierno: hasta 60%"
+  },
+  {
+    "indice": 571,
+    "tipo": "SPAN",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 572,
+    "tipo": "A",
+    "contenido": "Ver más"
+  },
+  {
+    "indice": 599,
+    "tipo": "DIV",
+    "contenido": "window.grandprix.wrappers.listenForSFIFrameLoad(\"ape_Gateway_desktop-homepage-btf-left_desktop_iframe\", \"ape_Gateway_desktop-homepage-btf-left_desktop_placement\");"
+  },
+  {
+    "indice": 605,
+    "tipo": "DIV",
+    "contenido": "Productos que has visto recientemente y recomendaciones destacadas      ›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 606,
+    "tipo": "DIV",
+    "contenido": "Productos que has visto recientemente y recomendaciones destacadas"
+  },
+  {
+    "indice": 607,
+    "tipo": "DIV",
+    "contenido": "›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 608,
+    "tipo": "DIV",
+    "contenido": "›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 609,
+    "tipo": "DIV",
+    "contenido": "›    Ver o editar tu historial de búsqueda"
+  },
+  {
+    "indice": 610,
+    "tipo": "DIV",
+    "contenido": "›"
+  },
+  {
+    "indice": 611,
+    "tipo": "DIV",
+    "contenido": "Ver o editar tu historial de búsqueda"
+  },
+  {
+    "indice": 612,
+    "tipo": "A",
+    "contenido": "Ver o editar tu historial de búsqueda"
+  },
+  {
+    "indice": 613,
+    "tipo": "SPAN",
+    "contenido": "Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 614,
+    "tipo": "DIV",
+    "contenido": "Productos que has visto recientemente y recomendaciones destacadas      ›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 615,
+    "tipo": "DIV",
+    "contenido": "Productos que has visto recientemente y recomendaciones destacadas      ›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 616,
+    "tipo": "DIV",
+    "contenido": "Productos que has visto recientemente y recomendaciones destacadas"
+  },
+  {
+    "indice": 617,
+    "tipo": "DIV",
+    "contenido": "›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 618,
+    "tipo": "DIV",
+    "contenido": "›    Ver o editar tu historial de búsqueda     Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 619,
+    "tipo": "DIV",
+    "contenido": "›    Ver o editar tu historial de búsqueda"
+  },
+  {
+    "indice": 620,
+    "tipo": "DIV",
+    "contenido": "›"
+  },
+  {
+    "indice": 621,
+    "tipo": "DIV",
+    "contenido": "Ver o editar tu historial de búsqueda"
+  },
+  {
+    "indice": 622,
+    "tipo": "A",
+    "contenido": "Ver o editar tu historial de búsqueda"
+  },
+  {
+    "indice": 623,
+    "tipo": "SPAN",
+    "contenido": "Una vez que hayas visto páginas de detalles del producto, busca aquí la manera más fácil de navegar hasta las páginas en las que estás interesado."
+  },
+  {
+    "indice": 625,
+    "tipo": "BUTTON",
+    "contenido": "Volver arriba"
+  },
+  {
+    "indice": 626,
+    "tipo": "DIV",
+    "contenido": "Volver arriba"
+  },
+  {
+    "indice": 627,
+    "tipo": "DIV",
+    "contenido": "Conócenos                                     Trabajar en Amazon                                         Sobre Amazon.es                                         Sostenibilidad                                         Amazon Science                                                          Gana dinero con nosotros                                     Vender en Amazon                                         Vender en Amazon Business                                         Vende en Amazon Handmade                                         Desarrolla y protege tu marca                                         Programa de afiliados                                         Logística de Amazon                                         Suministrar a Amazon                                         Vende en todo el mundo con Amazon                                         Promociona tus productos                                         Publica tu libro en Kindle                                         Amazon Pay                                         Alojar un Amazon Hub                                                          Métodos de pago Amazon                                     Métodos de pago                                         Conversor de divisas de Amazon                                         Tarjetas regalo                                         Recarga online                                         Recarga en tienda                                                          ¿Necesitas ayuda?                                     Localizar o gestionar compras                                         Tarifas y políticas de envío                                         Amazon Prime                                         Devolver o reemplazar productos                                         Reciclaje                                         Gestionar contenido y dispositivos                                         Retiradas y alertas de seguridad de productos                                         App Amazon                                         Atención al Cliente                                         IVA sobre los bienes                                         Accesibilidad                                         Listas de regalos                                         Denunciar contenido ilegal"
+  },
+  {
+    "indice": 628,
+    "tipo": "DIV",
+    "contenido": "Conócenos                                     Trabajar en Amazon                                         Sobre Amazon.es                                         Sostenibilidad                                         Amazon Science                                                          Gana dinero con nosotros                                     Vender en Amazon                                         Vender en Amazon Business                                         Vende en Amazon Handmade                                         Desarrolla y protege tu marca                                         Programa de afiliados                                         Logística de Amazon                                         Suministrar a Amazon                                         Vende en todo el mundo con Amazon                                         Promociona tus productos                                         Publica tu libro en Kindle                                         Amazon Pay                                         Alojar un Amazon Hub                                                          Métodos de pago Amazon                                     Métodos de pago                                         Conversor de divisas de Amazon                                         Tarjetas regalo                                         Recarga online                                         Recarga en tienda                                                          ¿Necesitas ayuda?                                     Localizar o gestionar compras                                         Tarifas y políticas de envío                                         Amazon Prime                                         Devolver o reemplazar productos                                         Reciclaje                                         Gestionar contenido y dispositivos                                         Retiradas y alertas de seguridad de productos                                         App Amazon                                         Atención al Cliente                                         IVA sobre los bienes                                         Accesibilidad                                         Listas de regalos                                         Denunciar contenido ilegal"
+  },
+  {
+    "indice": 629,
+    "tipo": "DIV",
+    "contenido": "Conócenos                                     Trabajar en Amazon                                         Sobre Amazon.es                                         Sostenibilidad                                         Amazon Science"
+  },
+  {
+    "indice": 630,
+    "tipo": "DIV",
+    "contenido": "Conócenos"
+  },
+  {
+    "indice": 631,
+    "tipo": "A",
+    "contenido": "Trabajar en Amazon"
+  },
+  {
+    "indice": 632,
+    "tipo": "A",
+    "contenido": "Sobre Amazon.es"
+  },
+  {
+    "indice": 633,
+    "tipo": "A",
+    "contenido": "Sostenibilidad"
+  },
+  {
+    "indice": 634,
+    "tipo": "A",
+    "contenido": "Amazon Science"
+  },
+  {
+    "indice": 636,
+    "tipo": "DIV",
+    "contenido": "Gana dinero con nosotros                                     Vender en Amazon                                         Vender en Amazon Business                                         Vende en Amazon Handmade                                         Desarrolla y protege tu marca                                         Programa de afiliados                                         Logística de Amazon                                         Suministrar a Amazon                                         Vende en todo el mundo con Amazon                                         Promociona tus productos                                         Publica tu libro en Kindle                                         Amazon Pay                                         Alojar un Amazon Hub"
+  },
+  {
+    "indice": 637,
+    "tipo": "DIV",
+    "contenido": "Gana dinero con nosotros"
+  },
+  {
+    "indice": 638,
+    "tipo": "A",
+    "contenido": "Vender en Amazon"
+  },
+  {
+    "indice": 639,
+    "tipo": "A",
+    "contenido": "Vender en Amazon Business"
+  },
+  {
+    "indice": 640,
+    "tipo": "A",
+    "contenido": "Vende en Amazon Handmade"
+  },
+  {
+    "indice": 641,
+    "tipo": "A",
+    "contenido": "Desarrolla y protege tu marca"
+  },
+  {
+    "indice": 642,
+    "tipo": "A",
+    "contenido": "Programa de afiliados"
+  },
+  {
+    "indice": 643,
+    "tipo": "A",
+    "contenido": "Logística de Amazon"
+  },
+  {
+    "indice": 644,
+    "tipo": "A",
+    "contenido": "Suministrar a Amazon"
+  },
+  {
+    "indice": 645,
+    "tipo": "A",
+    "contenido": "Vende en todo el mundo con Amazon"
+  },
+  {
+    "indice": 646,
+    "tipo": "A",
+    "contenido": "Promociona tus productos"
+  },
+  {
+    "indice": 647,
+    "tipo": "A",
+    "contenido": "Publica tu libro en Kindle"
+  },
+  {
+    "indice": 648,
+    "tipo": "A",
+    "contenido": "Amazon Pay"
+  },
+  {
+    "indice": 649,
+    "tipo": "A",
+    "contenido": "Alojar un Amazon Hub"
+  },
+  {
+    "indice": 651,
+    "tipo": "DIV",
+    "contenido": "Métodos de pago Amazon                                     Métodos de pago                                         Conversor de divisas de Amazon                                         Tarjetas regalo                                         Recarga online                                         Recarga en tienda"
+  },
+  {
+    "indice": 652,
+    "tipo": "DIV",
+    "contenido": "Métodos de pago Amazon"
+  },
+  {
+    "indice": 653,
+    "tipo": "A",
+    "contenido": "Métodos de pago"
+  },
+  {
+    "indice": 654,
+    "tipo": "A",
+    "contenido": "Conversor de divisas de Amazon"
+  },
+  {
+    "indice": 655,
+    "tipo": "A",
+    "contenido": "Tarjetas regalo"
+  },
+  {
+    "indice": 656,
+    "tipo": "A",
+    "contenido": "Recarga online"
+  },
+  {
+    "indice": 657,
+    "tipo": "A",
+    "contenido": "Recarga en tienda"
+  },
+  {
+    "indice": 659,
+    "tipo": "DIV",
+    "contenido": "¿Necesitas ayuda?                                     Localizar o gestionar compras                                         Tarifas y políticas de envío                                         Amazon Prime                                         Devolver o reemplazar productos                                         Reciclaje                                         Gestionar contenido y dispositivos                                         Retiradas y alertas de seguridad de productos                                         App Amazon                                         Atención al Cliente                                         IVA sobre los bienes                                         Accesibilidad                                         Listas de regalos                                         Denunciar contenido ilegal"
+  },
+  {
+    "indice": 660,
+    "tipo": "DIV",
+    "contenido": "¿Necesitas ayuda?"
+  },
+  {
+    "indice": 661,
+    "tipo": "A",
+    "contenido": "Localizar o gestionar compras"
+  },
+  {
+    "indice": 662,
+    "tipo": "A",
+    "contenido": "Tarifas y políticas de envío"
+  },
+  {
+    "indice": 663,
+    "tipo": "A",
+    "contenido": "Amazon Prime"
+  },
+  {
+    "indice": 664,
+    "tipo": "A",
+    "contenido": "Devolver o reemplazar productos"
+  },
+  {
+    "indice": 665,
+    "tipo": "A",
+    "contenido": "Reciclaje"
+  },
+  {
+    "indice": 666,
+    "tipo": "A",
+    "contenido": "Gestionar contenido y dispositivos"
+  },
+  {
+    "indice": 667,
+    "tipo": "A",
+    "contenido": "Retiradas y alertas de seguridad de productos"
+  },
+  {
+    "indice": 668,
+    "tipo": "A",
+    "contenido": "App Amazon"
+  },
+  {
+    "indice": 669,
+    "tipo": "A",
+    "contenido": "Atención al Cliente"
+  },
+  {
+    "indice": 670,
+    "tipo": "A",
+    "contenido": "IVA sobre los bienes"
+  },
+  {
+    "indice": 671,
+    "tipo": "A",
+    "contenido": "Accesibilidad"
+  },
+  {
+    "indice": 672,
+    "tipo": "A",
+    "contenido": "Listas de regalos"
+  },
+  {
+    "indice": 673,
+    "tipo": "A",
+    "contenido": "Denunciar contenido ilegal"
+  },
+  {
+    "indice": 684,
+    "tipo": "DIV",
+    "contenido": "Castellano"
+  },
+  {
+    "indice": 685,
+    "tipo": "A",
+    "contenido": "Castellano"
+  },
+  {
+    "indice": 687,
+    "tipo": "SPAN",
+    "contenido": "Castellano"
+  },
+  {
+    "indice": 689,
+    "tipo": "A",
+    "contenido": "España"
+  },
+  {
+    "indice": 691,
+    "tipo": "SPAN",
+    "contenido": "España"
+  },
+  {
+    "indice": 692,
+    "tipo": "DIV",
+    "contenido": "Amazon MusicTransmite millonesde canciones IberLibroLibros, arte& artículos de colección Amazon Web ServicesServicios Cloud Computingde Amazon Kindle Direct PublishingPublica tu libro en papel y digitalde manera independiente   Amazon Segunda manoProductos devueltos y como nuevos ShopbopMarcasde moda de diseño  Amazon BusinessServicio paraclientes de empresa AudibleDisfruta de miles de audiolibros y podcasts originales"
+  },
+  {
+    "indice": 693,
+    "tipo": "DIV",
+    "contenido": "Amazon MusicTransmite millonesde canciones IberLibroLibros, arte& artículos de colección Amazon Web ServicesServicios Cloud Computingde Amazon Kindle Direct PublishingPublica tu libro en papel y digitalde manera independiente   Amazon Segunda manoProductos devueltos y como nuevos ShopbopMarcasde moda de diseño  Amazon BusinessServicio paraclientes de empresa AudibleDisfruta de miles de audiolibros y podcasts originales"
+  },
+  {
+    "indice": 694,
+    "tipo": "A",
+    "contenido": "Amazon MusicTransmite millonesde canciones"
+  },
+  {
+    "indice": 695,
+    "tipo": "SPAN",
+    "contenido": "Transmite millonesde canciones"
+  },
+  {
+    "indice": 696,
+    "tipo": "A",
+    "contenido": "IberLibroLibros, arte& artículos de colección"
+  },
+  {
+    "indice": 697,
+    "tipo": "SPAN",
+    "contenido": "Libros, arte& artículos de colección"
+  },
+  {
+    "indice": 698,
+    "tipo": "A",
+    "contenido": "Amazon Web ServicesServicios Cloud Computingde Amazon"
+  },
+  {
+    "indice": 699,
+    "tipo": "SPAN",
+    "contenido": "Servicios Cloud Computingde Amazon"
+  },
+  {
+    "indice": 700,
+    "tipo": "A",
+    "contenido": "Kindle Direct PublishingPublica tu libro en papel y digitalde manera independiente"
+  },
+  {
+    "indice": 701,
+    "tipo": "SPAN",
+    "contenido": "Publica tu libro en papel y digitalde manera independiente"
+  },
+  {
+    "indice": 702,
+    "tipo": "A",
+    "contenido": "Amazon Segunda manoProductos devueltos y como nuevos"
+  },
+  {
+    "indice": 703,
+    "tipo": "SPAN",
+    "contenido": "Productos devueltos y como nuevos"
+  },
+  {
+    "indice": 704,
+    "tipo": "A",
+    "contenido": "ShopbopMarcasde moda de diseño"
+  },
+  {
+    "indice": 705,
+    "tipo": "SPAN",
+    "contenido": "Marcasde moda de diseño"
+  },
+  {
+    "indice": 706,
+    "tipo": "A",
+    "contenido": "Amazon BusinessServicio paraclientes de empresa"
+  },
+  {
+    "indice": 707,
+    "tipo": "SPAN",
+    "contenido": "Servicio paraclientes de empresa"
+  },
+  {
+    "indice": 708,
+    "tipo": "A",
+    "contenido": "AudibleDisfruta de miles de audiolibros y podcasts originales"
+  },
+  {
+    "indice": 709,
+    "tipo": "SPAN",
+    "contenido": "Disfruta de miles de audiolibros y podcasts originales"
+  },
+  {
+    "indice": 710,
+    "tipo": "DIV",
+    "contenido": "Condiciones de Uso y Venta Aviso de privacidad Área legal Cookies Publicidad basada en intereses © 1996-2025, Amazon.com, Inc. o sus afiliados"
+  },
+  {
+    "indice": 711,
+    "tipo": "A",
+    "contenido": "Condiciones de Uso y Venta"
+  },
+  {
+    "indice": 712,
+    "tipo": "A",
+    "contenido": "Aviso de privacidad"
+  },
+  {
+    "indice": 713,
+    "tipo": "A",
+    "contenido": "Área legal"
+  },
+  {
+    "indice": 714,
+    "tipo": "A",
+    "contenido": "Cookies"
+  },
+  {
+    "indice": 715,
+    "tipo": "A",
+    "contenido": "Publicidad basada en intereses"
+  },
+  {
+    "indice": 716,
+    "tipo": "SPAN",
+    "contenido": "© 1996-2025, Amazon.com, Inc. o sus afiliados"
+  }
+]

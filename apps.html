@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Apps Scraping Offline</title>
+<style>
+  body {font-family: Arial, Helvetica, sans-serif;background-color: #f2f2f2;margin: 20px;}
+  h2 {background-color: #ff80ff;color: white;padding: 8px;border-radius: 5px;}
+  section {background: white;padding: 15px;margin-bottom: 20px;border-radius: 8px;box-shadow: 0 0 5px rgba(0,0,0,0.1);}
+  
+  /* BOTONES GRIS PERSONALIZADO */
+  button {
+    background-color: #b2b266;  /* gris deseado */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #8f8f4f;  /* un poco más oscuro para hover */
+  }
+
+  .output {border: 1px solid #ccc;padding: 10px;margin-bottom: 15px;background: #fafafa;border-radius: 5px;}
+  #output-arbol {background: #f4f4f4;font-family: monospace;max-height:300px;overflow:auto;}
+  hr {margin: 25px 0;}
+</style>
+</head>
+
+<body>
+<h1> SCRAPING DE CUATRO WEBS</h1>
+<h3>FACEBOOK, AMAZON, LINKEDIN Y CASAS RURALES</h3>
+<hr>
+
+<section id="interfaz-visual">
+  <h2>Vista de Usuario (Interfaz)</h2>
+  <div id="output-interfaz" class="output"></div>
+</section>
+
+<section id="arbol-nodos">
+  <h2>Estructura Interna (Árbol de Nodos)</h2>
+  <div id="output-arbol" class="output"></div>
+</section>
+
+<hr>
+
+<button onclick="loadContactsFacebook('facebook.html', 'output-face')">Cargar Contactos Facebook</button>
+<div id="output-face" class="output"></div>
+
+<button onclick="loadAmazonIntro()">Cargar Amazon General</button>
+<div id="output-AmazonIntro" class="output"></div>
+
+<button onclick="loadAmazonUsuario()">Cargar Amazon Login Usuario</button>
+<div id="output-AmazonUsuario" class="output"></div>
+
+<button onclick="loadContactsLinkedin('appLinkedinContacts.html', 'output-linkedin')">Cargar Contactos Linkedin</button>
+<div id="output-linkedin" class="output"></div>
+
+<button onclick="loadTopRural()">Cargar Casas Rurales</button>
+<div id="output-CasasRuralesUsuario" class="output"></div>
+
+<hr>
+
+<script>
+window.exportarAJSON = function(datos, nombreArchivo) {
+  if (!datos || datos.length === 0) {
+    alert("No hay datos para exportar.");
+    return;
+  }
+  const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(datos, null, 2));
+  const a = document.createElement('a');
+  a.setAttribute("href", dataStr);
+  a.setAttribute("download", nombreArchivo + ".json");
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+};
+</script>
+
+<script src="appFace2.js"></script>
+<script src="appLinkedinContacts.js"></script>
+<script src="appAmazonIntro.js"></script>
+<script src="appAmazonUsuario.js"></script>
+<script src="appCasasRurales.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,884 @@
+[
+  {
+    "id": 2,
+    "elemento": "A",
+    "informacion": "Tarjetas regalo",
+    "categoria": "General"
+  },
+  {
+    "id": 3,
+    "elemento": "A",
+    "informacion": "Iniciar sesión",
+    "categoria": "General"
+  },
+  {
+    "id": 4,
+    "elemento": "H1",
+    "informacion": "Las mejores casas rurales",
+    "categoria": "General"
+  },
+  {
+    "id": 5,
+    "elemento": "H2",
+    "informacion": "Reserva online la casa rural de tus sueños",
+    "categoria": "Reserva online la casa rural de tus sueños"
+  },
+  {
+    "id": 6,
+    "elemento": "H2",
+    "informacion": "Elige cómo quieres tu casa rural",
+    "categoria": "Elige cómo quieres tu casa rural"
+  },
+  {
+    "id": 7,
+    "elemento": "H2",
+    "informacion": "Las mejores casas rurales con encanto",
+    "categoria": "Las mejores casas rurales con encanto"
+  },
+  {
+    "id": 8,
+    "elemento": "A",
+    "informacion": "Casas Rurales Asturias",
+    "categoria": "General"
+  },
+  {
+    "id": 9,
+    "elemento": "A",
+    "informacion": "Casas Rurales Girona",
+    "categoria": "General"
+  },
+  {
+    "id": 10,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cantabria",
+    "categoria": "General"
+  },
+  {
+    "id": 11,
+    "elemento": "A",
+    "informacion": "Casas Rurales Huesca",
+    "categoria": "General"
+  },
+  {
+    "id": 12,
+    "elemento": "A",
+    "informacion": "Casas Rurales Málaga",
+    "categoria": "General"
+  },
+  {
+    "id": 13,
+    "elemento": "A",
+    "informacion": "Casas Rurales Ávila",
+    "categoria": "General"
+  },
+  {
+    "id": 14,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cádiz",
+    "categoria": "General"
+  },
+  {
+    "id": 15,
+    "elemento": "A",
+    "informacion": "Casas Rurales Barcelona",
+    "categoria": "General"
+  },
+  {
+    "id": 16,
+    "elemento": "A",
+    "informacion": "Casas Rurales Tarragona",
+    "categoria": "General"
+  },
+  {
+    "id": 17,
+    "elemento": "A",
+    "informacion": "Casas Rurales Navarra",
+    "categoria": "General"
+  },
+  {
+    "id": 18,
+    "elemento": "A",
+    "informacion": "Casas Rurales Lleida",
+    "categoria": "General"
+  },
+  {
+    "id": 19,
+    "elemento": "A",
+    "informacion": "Casas Rurales Granada",
+    "categoria": "General"
+  },
+  {
+    "id": 20,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cáceres",
+    "categoria": "General"
+  },
+  {
+    "id": 21,
+    "elemento": "A",
+    "informacion": "Casas Rurales Jaén",
+    "categoria": "General"
+  },
+  {
+    "id": 22,
+    "elemento": "A",
+    "informacion": "Casas Rurales A Coruña",
+    "categoria": "General"
+  },
+  {
+    "id": 23,
+    "elemento": "A",
+    "informacion": "Casas Rurales Segovia",
+    "categoria": "General"
+  },
+  {
+    "id": 24,
+    "elemento": "A",
+    "informacion": "Casas Rurales Teruel",
+    "categoria": "General"
+  },
+  {
+    "id": 25,
+    "elemento": "A",
+    "informacion": "Casas Rurales Albacete",
+    "categoria": "General"
+  },
+  {
+    "id": 26,
+    "elemento": "A",
+    "informacion": "Casas Rurales Alicante",
+    "categoria": "General"
+  },
+  {
+    "id": 27,
+    "elemento": "A",
+    "informacion": "Casas Rurales Salamanca",
+    "categoria": "General"
+  },
+  {
+    "id": 28,
+    "elemento": "A",
+    "informacion": "Casas Rurales Gran Canaria",
+    "categoria": "General"
+  },
+  {
+    "id": 29,
+    "elemento": "A",
+    "informacion": "Casas Rurales Madrid",
+    "categoria": "General"
+  },
+  {
+    "id": 30,
+    "elemento": "A",
+    "informacion": "Casas Rurales Mallorca",
+    "categoria": "General"
+  },
+  {
+    "id": 31,
+    "elemento": "A",
+    "informacion": "Casas Rurales Castellón",
+    "categoria": "General"
+  },
+  {
+    "id": 32,
+    "elemento": "A",
+    "informacion": "Casas Rurales Pontevedra",
+    "categoria": "General"
+  },
+  {
+    "id": 33,
+    "elemento": "A",
+    "informacion": "Casas Rurales Murcia",
+    "categoria": "General"
+  },
+  {
+    "id": 34,
+    "elemento": "A",
+    "informacion": "Casas Rurales León",
+    "categoria": "General"
+  },
+  {
+    "id": 35,
+    "elemento": "A",
+    "informacion": "Casas Rurales Burgos",
+    "categoria": "General"
+  },
+  {
+    "id": 36,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cuenca",
+    "categoria": "General"
+  },
+  {
+    "id": 37,
+    "elemento": "A",
+    "informacion": "Casas Rurales Sevilla",
+    "categoria": "General"
+  },
+  {
+    "id": 38,
+    "elemento": "A",
+    "informacion": "Casas Rurales Tenerife",
+    "categoria": "General"
+  },
+  {
+    "id": 39,
+    "elemento": "A",
+    "informacion": "Casas Rurales Huelva",
+    "categoria": "General"
+  },
+  {
+    "id": 40,
+    "elemento": "A",
+    "informacion": "Casas Rurales Guadalajara",
+    "categoria": "General"
+  },
+  {
+    "id": 41,
+    "elemento": "A",
+    "informacion": "Casas Rurales Toledo",
+    "categoria": "General"
+  },
+  {
+    "id": 42,
+    "elemento": "A",
+    "informacion": "Casas Rurales Córdoba",
+    "categoria": "General"
+  },
+  {
+    "id": 43,
+    "elemento": "A",
+    "informacion": "Casas Rurales Valencia",
+    "categoria": "General"
+  },
+  {
+    "id": 44,
+    "elemento": "A",
+    "informacion": "Casas Rurales Soria",
+    "categoria": "General"
+  },
+  {
+    "id": 45,
+    "elemento": "A",
+    "informacion": "Casas Rurales Ciudad Real",
+    "categoria": "General"
+  },
+  {
+    "id": 46,
+    "elemento": "A",
+    "informacion": "Casas Rurales La Rioja",
+    "categoria": "General"
+  },
+  {
+    "id": 47,
+    "elemento": "A",
+    "informacion": "Casas Rurales Almería",
+    "categoria": "General"
+  },
+  {
+    "id": 48,
+    "elemento": "A",
+    "informacion": "Casas Rurales Lugo",
+    "categoria": "General"
+  },
+  {
+    "id": 49,
+    "elemento": "A",
+    "informacion": "Casas Rurales Vizcaya",
+    "categoria": "General"
+  },
+  {
+    "id": 50,
+    "elemento": "A",
+    "informacion": "Casas Rurales Lanzarote",
+    "categoria": "General"
+  },
+  {
+    "id": 51,
+    "elemento": "A",
+    "informacion": "Casas Rurales Zaragoza",
+    "categoria": "General"
+  },
+  {
+    "id": 52,
+    "elemento": "A",
+    "informacion": "Casas Rurales Zamora",
+    "categoria": "General"
+  },
+  {
+    "id": 53,
+    "elemento": "A",
+    "informacion": "Casas Rurales Fuerteventura",
+    "categoria": "General"
+  },
+  {
+    "id": 54,
+    "elemento": "A",
+    "informacion": "Casas Rurales Guipúzcoa",
+    "categoria": "General"
+  },
+  {
+    "id": 55,
+    "elemento": "A",
+    "informacion": "Casas Rurales Palencia",
+    "categoria": "General"
+  },
+  {
+    "id": 56,
+    "elemento": "A",
+    "informacion": "Casas Rurales Valladolid",
+    "categoria": "General"
+  },
+  {
+    "id": 57,
+    "elemento": "A",
+    "informacion": "Casas Rurales Badajoz",
+    "categoria": "General"
+  },
+  {
+    "id": 58,
+    "elemento": "A",
+    "informacion": "Casas Rurales La Palma",
+    "categoria": "General"
+  },
+  {
+    "id": 59,
+    "elemento": "A",
+    "informacion": "Casas Rurales Álava",
+    "categoria": "General"
+  },
+  {
+    "id": 60,
+    "elemento": "A",
+    "informacion": "Casas Rurales Orense",
+    "categoria": "General"
+  },
+  {
+    "id": 61,
+    "elemento": "A",
+    "informacion": "Casas Rurales Andorra",
+    "categoria": "General"
+  },
+  {
+    "id": 62,
+    "elemento": "A",
+    "informacion": "Casas Rurales Menorca",
+    "categoria": "General"
+  },
+  {
+    "id": 63,
+    "elemento": "A",
+    "informacion": "Casas Rurales El Hierro",
+    "categoria": "General"
+  },
+  {
+    "id": 64,
+    "elemento": "A",
+    "informacion": "Casas Rurales La Gomera",
+    "categoria": "General"
+  },
+  {
+    "id": 65,
+    "elemento": "A",
+    "informacion": "Casas Rurales Ibiza",
+    "categoria": "General"
+  },
+  {
+    "id": 66,
+    "elemento": "A",
+    "informacion": "Casas Rurales Formentera",
+    "categoria": "General"
+  },
+  {
+    "id": 67,
+    "elemento": "H2",
+    "informacion": "Ofertas de casas rurales para este fin de semana",
+    "categoria": "Ofertas de casas rurales para este fin de semana"
+  },
+  {
+    "id": 68,
+    "elemento": "A",
+    "informacion": "SPA Renacimiento\t\tAlbacete\t\t\t\t\t18·desde 3€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 69,
+    "elemento": "A",
+    "informacion": "K1 SPA Rural\t\tÁvila\t\t\t\t\t4·desde 50€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 70,
+    "elemento": "A",
+    "informacion": "Casa rural La Casona de Monterrey\t\tMadrid\t\t\t\t\t8·desde 21€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 71,
+    "elemento": "A",
+    "informacion": "El Olivar del Marqués\t\tCáceres\t\t\t\t\t25·desde 26€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 72,
+    "elemento": "A",
+    "informacion": "Cortijo la Estrella\t\tAlmería\t\t\t\t\t28·desde 26€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 73,
+    "elemento": "A",
+    "informacion": "La Casa de Felisin\t\tToledo\t\t\t\t\t8·desde 56€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 74,
+    "elemento": "A",
+    "informacion": "Gredos Starlight House\t\tÁvila\t\t\t\t\t4·desde 34€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 75,
+    "elemento": "A",
+    "informacion": "Montegrande\t\tAsturias\t\t\t\t\t4·desde 24€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 76,
+    "elemento": "H2",
+    "informacion": "Alojamientos con encanto",
+    "categoria": "Alojamientos con encanto"
+  },
+  {
+    "id": 77,
+    "elemento": "A",
+    "informacion": "Casas Rurales Canillo",
+    "categoria": "General"
+  },
+  {
+    "id": 78,
+    "elemento": "A",
+    "informacion": "Casas Rurales Candeleda",
+    "categoria": "General"
+  },
+  {
+    "id": 79,
+    "elemento": "A",
+    "informacion": "Casas Rurales Dénia",
+    "categoria": "General"
+  },
+  {
+    "id": 80,
+    "elemento": "A",
+    "informacion": "Casas Rurales Alcala Del Jucar",
+    "categoria": "General"
+  },
+  {
+    "id": 81,
+    "elemento": "A",
+    "informacion": "Casas Rurales Yeste",
+    "categoria": "General"
+  },
+  {
+    "id": 82,
+    "elemento": "A",
+    "informacion": "Casas Rurales Chiclana De La Frontera",
+    "categoria": "General"
+  },
+  {
+    "id": 83,
+    "elemento": "A",
+    "informacion": "Casas Rurales Conil De La Frontera",
+    "categoria": "General"
+  },
+  {
+    "id": 84,
+    "elemento": "A",
+    "informacion": "Casas Rurales Vejer De La Frontera",
+    "categoria": "General"
+  },
+  {
+    "id": 85,
+    "elemento": "A",
+    "informacion": "Casas Rurales Begur",
+    "categoria": "General"
+  },
+  {
+    "id": 86,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cazorla",
+    "categoria": "General"
+  },
+  {
+    "id": 87,
+    "elemento": "A",
+    "informacion": "Casas Rurales Aracena",
+    "categoria": "General"
+  },
+  {
+    "id": 88,
+    "elemento": "A",
+    "informacion": "Casas Rurales Estepona",
+    "categoria": "General"
+  },
+  {
+    "id": 89,
+    "elemento": "A",
+    "informacion": "Casas Rurales Competa",
+    "categoria": "General"
+  },
+  {
+    "id": 90,
+    "elemento": "A",
+    "informacion": "Casas Rurales Taull",
+    "categoria": "General"
+  },
+  {
+    "id": 91,
+    "elemento": "A",
+    "informacion": "Casas Rurales Logroño",
+    "categoria": "General"
+  },
+  {
+    "id": 92,
+    "elemento": "A",
+    "informacion": "Casas Rurales Deltebre",
+    "categoria": "General"
+  },
+  {
+    "id": 93,
+    "elemento": "A",
+    "informacion": "Casas Rurales Salou",
+    "categoria": "General"
+  },
+  {
+    "id": 94,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cazalla De La Sierra",
+    "categoria": "General"
+  },
+  {
+    "id": 95,
+    "elemento": "A",
+    "informacion": "Casas Rurales Santander",
+    "categoria": "General"
+  },
+  {
+    "id": 96,
+    "elemento": "A",
+    "informacion": "Casas Rurales Yaiza",
+    "categoria": "General"
+  },
+  {
+    "id": 97,
+    "elemento": "A",
+    "informacion": "Casas Rurales San Bartolome De Tirajana",
+    "categoria": "General"
+  },
+  {
+    "id": 98,
+    "elemento": "A",
+    "informacion": "Casas Rurales Llanes",
+    "categoria": "General"
+  },
+  {
+    "id": 99,
+    "elemento": "A",
+    "informacion": "Casas Rurales Ribadesella",
+    "categoria": "General"
+  },
+  {
+    "id": 100,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cangas De Onis",
+    "categoria": "General"
+  },
+  {
+    "id": 101,
+    "elemento": "A",
+    "informacion": "Casas Rurales Gijón",
+    "categoria": "General"
+  },
+  {
+    "id": 102,
+    "elemento": "A",
+    "informacion": "Casas Rurales Villaviciosa",
+    "categoria": "General"
+  },
+  {
+    "id": 103,
+    "elemento": "A",
+    "informacion": "Casas Rurales Moratalla",
+    "categoria": "General"
+  },
+  {
+    "id": 104,
+    "elemento": "H2",
+    "informacion": "Alojamientos recomendados para reservar online",
+    "categoria": "Alojamientos recomendados para reservar online"
+  },
+  {
+    "id": 105,
+    "elemento": "A",
+    "informacion": "Les Suites - Cabañas Palautordera\t\tBarcelona\t\t\t\t\t8·desde 67€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 106,
+    "elemento": "A",
+    "informacion": "Nueva Casa de Gala\t\tCórdoba\t\t\t\t\t6·desde 21€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 107,
+    "elemento": "A",
+    "informacion": "La Casa del Herrero\t\tSegovia\t\t\t\t\t12·desde 45€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 108,
+    "elemento": "A",
+    "informacion": "Casas Puerta de Andalucía- Batalla Navas de Tolosa\t\tJaén\t\t\t\t\t8·desde 36€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 109,
+    "elemento": "A",
+    "informacion": "Gredos Starlight House\t\tÁvila\t\t\t\t\t4·desde 34€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 110,
+    "elemento": "A",
+    "informacion": "Casa del Tío Primitivo\t\tÁvila\t\t\t\t\t6·desde 31€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 111,
+    "elemento": "A",
+    "informacion": "Cabañas de Udra\t\tPontevedra\t\t\t\t\t8·desde 105€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 112,
+    "elemento": "A",
+    "informacion": "Moliniás - Casa Sabina \t\tHuesca\t\t\t\t\t6·desde 24€ pers. y noche",
+    "categoria": "General"
+  },
+  {
+    "id": 113,
+    "elemento": "H2",
+    "informacion": "Inspírate con el turismo rural",
+    "categoria": "Inspírate con el turismo rural"
+  },
+  {
+    "id": 114,
+    "elemento": "A",
+    "informacion": "Casas Rurales Andalucía",
+    "categoria": "General"
+  },
+  {
+    "id": 115,
+    "elemento": "A",
+    "informacion": "Casas Rurales Cataluña",
+    "categoria": "General"
+  },
+  {
+    "id": 116,
+    "elemento": "A",
+    "informacion": "Casas Rurales Castilla y León",
+    "categoria": "General"
+  },
+  {
+    "id": 117,
+    "elemento": "A",
+    "informacion": "Casas Rurales Castilla La Mancha",
+    "categoria": "General"
+  },
+  {
+    "id": 118,
+    "elemento": "A",
+    "informacion": "Casas Rurales Aragón",
+    "categoria": "General"
+  },
+  {
+    "id": 119,
+    "elemento": "A",
+    "informacion": "Casas Rurales Canarias",
+    "categoria": "General"
+  },
+  {
+    "id": 120,
+    "elemento": "A",
+    "informacion": "Casas Rurales Galicia",
+    "categoria": "General"
+  },
+  {
+    "id": 121,
+    "elemento": "A",
+    "informacion": "Casas Rurales Comunidad Valenciana",
+    "categoria": "General"
+  },
+  {
+    "id": 122,
+    "elemento": "A",
+    "informacion": "Casas Rurales Extremadura",
+    "categoria": "General"
+  },
+  {
+    "id": 123,
+    "elemento": "A",
+    "informacion": "Casas Rurales Islas Baleares",
+    "categoria": "General"
+  },
+  {
+    "id": 124,
+    "elemento": "A",
+    "informacion": "Casas Rurales País Vasco",
+    "categoria": "General"
+  },
+  {
+    "id": 125,
+    "elemento": "H3",
+    "informacion": "En CasasRurales.net podrás...",
+    "categoria": "En CasasRurales.net podrás..."
+  },
+  {
+    "id": 126,
+    "elemento": "A",
+    "informacion": "condiciones legales",
+    "categoria": "General"
+  },
+  {
+    "id": 127,
+    "elemento": "A",
+    "informacion": "Alojamientos Francia\n\t\t    \t\tDescubre el país al que irse de viaje, ¡siempre es buena idea!",
+    "categoria": "General"
+  },
+  {
+    "id": 128,
+    "elemento": "H2",
+    "informacion": "Alojamientos Francia",
+    "categoria": "Alojamientos Francia"
+  },
+  {
+    "id": 129,
+    "elemento": "H3",
+    "informacion": "Tipos de alojamiento de turismo rural",
+    "categoria": "Tipos de alojamiento de turismo rural"
+  },
+  {
+    "id": 130,
+    "elemento": "A",
+    "informacion": "Casas rurales España",
+    "categoria": "General"
+  },
+  {
+    "id": 131,
+    "elemento": "A",
+    "informacion": "Apartamentos rurales",
+    "categoria": "General"
+  },
+  {
+    "id": 132,
+    "elemento": "A",
+    "informacion": "Hoteles rurales",
+    "categoria": "General"
+  },
+  {
+    "id": 133,
+    "elemento": "A",
+    "informacion": "Albergues rurales",
+    "categoria": "General"
+  },
+  {
+    "id": 134,
+    "elemento": "A",
+    "informacion": "Bungalows y cabañas",
+    "categoria": "General"
+  },
+  {
+    "id": 135,
+    "elemento": "H3",
+    "informacion": "Selecciona un país",
+    "categoria": "Selecciona un país"
+  },
+  {
+    "id": 136,
+    "elemento": "A",
+    "informacion": "Francia",
+    "categoria": "General"
+  },
+  {
+    "id": 137,
+    "elemento": "A",
+    "informacion": "Reino Unido",
+    "categoria": "General"
+  },
+  {
+    "id": 138,
+    "elemento": "H3",
+    "informacion": "Sobre Nosotros",
+    "categoria": "Sobre Nosotros"
+  },
+  {
+    "id": 139,
+    "elemento": "A",
+    "informacion": "Blog Casasrurales.net",
+    "categoria": "General"
+  },
+  {
+    "id": 140,
+    "elemento": "A",
+    "informacion": "Condiciones legales",
+    "categoria": "General"
+  },
+  {
+    "id": 141,
+    "elemento": "A",
+    "informacion": "Política de cookies",
+    "categoria": "General"
+  },
+  {
+    "id": 142,
+    "elemento": "A",
+    "informacion": "Política de privacidad",
+    "categoria": "General"
+  },
+  {
+    "id": 143,
+    "elemento": "H3",
+    "informacion": "Confianza CasasRurales.net",
+    "categoria": "Confianza CasasRurales.net"
+  },
+  {
+    "id": 144,
+    "elemento": "H3",
+    "informacion": "Descárgate la app",
+    "categoria": "Descárgate la app"
+  },
+  {
+    "id": 145,
+    "elemento": "A",
+    "informacion": "Disponible en",
+    "categoria": "General"
+  },
+  {
+    "id": 146,
+    "elemento": "A",
+    "informacion": "Disponible en",
+    "categoria": "General"
+  },
+  {
+    "id": 147,
+    "elemento": "H3",
+    "informacion": "¡Síguenos!",
+    "categoria": "¡Síguenos!"
+  },
+  {
+    "id": 148,
+    "elemento": "H3",
+    "informacion": "Métodos de pago",
+    "categoria": "Métodos de pago"
+  }
+]
